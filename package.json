@@ -1,6 +1,6 @@
 {
   "name": "j-harsh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Npm package to print harsh's resume in a pretty format",
   "main": "index.js",
   "bin": {
