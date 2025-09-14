@@ -1,0 +1,104 @@
+{
+    "name": "Harsh Jain",
+    "contact": {
+        "email": "hello@jharsh.me",
+        "phone": "7983600174",
+        "portfolio": "https://www.jharsh.me"
+    },
+    "about-me": "24yo software engineer from India , Frontend by trade, full-stack by passion. I build and experiment with AI a lot.",
+    "experience": [
+        {
+            "company": "CONTINUE",
+            "role": "Mid-level Fullstack Developer",
+            "location": "India",
+            "duration": "May 2025 - August 2025",
+            "responsibilities": [
+                "Engineered a full-stack support platform using React, Go, and DynamoDB, leveraging centralized dashboard and slack integrations, reducing ticket resolution time from 1 day to 2 hours.",
+                "Spearheaded an in-house CMS with React/Next.js, Go, and PostgreSQL to streamline content management for the website, accelerating deployment speed by 75% for non-technical internal users.",
+                "Created an AWS-based CDN management tool using React, AWS S3, and Cloud-front enabling users to manage assets. Improved release cycles by 20% allowing a seamless cross-platform asset distribution.",
+                "Built automated firmware versioning system using Go and React. Manifest parsing and silent app notifications, achieving 80% faster deployments for all users and 100% mobile app up-time."
+            ]
+        },
+        {
+            "company": "DELOITTE",
+            "role": "SDE-1",
+            "location": "India",
+            "duration": "November 2023 - May 2025",
+            "responsibilities": [
+                "Contributed on AI-Assist (from POC to v2.0), spearheaded front-end for Jira and Azure DevOps plugins and made a LLM-agnostic AI-Gateway. Implemented an atomic react architecture enhancing developer efficiency by 20-30%.",
+                "Built KPI Dashboard using FastAPI and Next.js to visualize 20+ KPIs. Integrated 8+ applications achieving 10-12% improvement in data-driven decision making through comprehensive performance monitoring.",
+                "Developed NPM package to standardize development across 13+ react applications. Reduced code redundancy by 40% and accelerated releases by 20%."
+            ]
+        },
+        {
+            "company": "88VENTURES",
+            "role": "SDE Intern",
+            "location": "India",
+            "duration": "September 2023 - November 2023",
+            "responsibilities": [
+                "Scaled Quickads to first 100-200 payed users. Worked on AI Image Editor using Next.Js 13 & ChakraUI.",
+                "Independently developed core features: Image Processing (SVG Editor), Whitelabeling, Payment Gateways, OpenAI/DALL-E, i18l, Social Media Integrations."
+            ]
+        },
+        {
+            "company": "DELOITTE",
+            "role": "SDE Intern",
+            "location": "India",
+            "duration": "May 2023 - August 2023",
+            "responsibilities": [
+                "Led a 3-person team for \"Balanced Bite\", developing an AI-powered healthy recipe PWA with React.js. Integrated Generative AI (Langchain) for innovative features, earning the Best UI/UX award for intuitive design.",
+                "Completed Hashedin University\u2019s rigorous program, achieving Top 2 rank (out of 60) and mastering React.js alongside Generative AI concepts."
+            ]
+        }
+    ],
+    "projects_and_contributions": [
+        {
+            "project": "GSSoC",
+            "year": "2023",
+            "details": [
+                "Managed the Vibey repository, reviewing and merging pull requests to maintain code quality and standards.",
+                "Facilitated open source development by creating and reviewing issues.",
+                "ErosNow: A Full-stack MERN YouTube clone with JWT authentication and Firebase for video uploads."
+            ]
+        }
+    ],
+    "achievements": [
+        "Spot Awards",
+        "Top Impactor",
+        "Most Curious Trainee"
+    ],
+    "skills": {
+        "languages": [
+            "TypeScript",
+            "Java",
+            "Go",
+            "Python",
+            "C"
+        ],
+        "frameworks": [
+            "React.Js",
+            "Next.Js",
+            "Node.js",
+            "Langchain",
+            "Springboot",
+            "Flask",
+            "FastAPI"
+        ],
+        "database": [
+            "SQL",
+            "No-SQL"
+        ],
+        "technology": [
+            "Git",
+            "Linux",
+            "GCP",
+            "AWS"
+        ]
+    },
+    "education": {
+        "degree": "B.Tech in Computer Science",
+        "graduation_date": "Jun 2023",
+        "institution": "Jaypee University of Information and Technology",
+        "cgpa": "8.1"
+    }
+}
